@@ -1,0 +1,14 @@
+{
+  "name": "NodeJokesApp",
+  "versoin": "0.1",
+  "licence": "unlicensed",
+  "private": "true",
+  "description": "Simple Node application that declares functions and inc=vokes them",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jokes": "0.1.3"
+  }
+}
